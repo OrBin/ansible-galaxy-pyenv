@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: orbin.pyenv
   author: Maxim Avanov
   description: Ansible Galaxy role for pyenv (https://github.com/yyuu/pyenv).
   company:
@@ -107,20 +108,20 @@ galaxy_info:
   # Below are all categories currently available. Just as with
   # the platforms above, uncomment those that apply to your role.
   #
-  categories:
-  #- cloud
-  #- cloud:ec2
-  #- cloud:gce
-  #- cloud:rax
-  #- clustering
-  #- database
-  #- database:nosql
-  #- database:sql
-    - development
-  #- monitoring
-  #- networking
-  #- packaging
-    - system
+#  categories:
+#  #- cloud
+#  #- cloud:ec2
+#  #- cloud:gce
+#  #- cloud:rax
+#  #- clustering
+#  #- database
+#  #- database:nosql
+#  #- database:sql
+#    - development
+#  #- monitoring
+#  #- networking
+#  #- packaging
+#    - system
   #- web
 dependencies: []
   # List your role dependencies here, one per line. Only
