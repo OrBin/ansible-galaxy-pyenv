@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: orbin.pyenv
+  role_name: pyenv
   author: Maxim Avanov
   description: Ansible Galaxy role for pyenv (https://github.com/yyuu/pyenv).
   company:
